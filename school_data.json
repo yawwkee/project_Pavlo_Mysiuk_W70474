@@ -1,0 +1,26 @@
+{
+        "Students": [
+            {
+                "Id": "1",
+                "FirstName": "Jan",
+                "LastName": "Kowalski",
+                "ClassName": "1A",
+                "Grades": {
+                    "Math": [ 5, 4 ],
+                    "English": [ 3 ]
+                },
+                "Attendance": {
+                    "2025-01-01": true,
+                    "2025-01-02": false
+                }
+            }
+        ],
+        "Teachers": [
+            {
+                "Id": "1",
+                "FirstName": "Anna",
+                "LastName": "Nowak",
+                "Subjects": [ "Math", "Physics" ]
+            }
+        ]
+}
