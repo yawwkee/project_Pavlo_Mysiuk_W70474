@@ -7,7 +7,7 @@ class Program
         var schoolManager = new SchoolManager();
 
         bool running = true;
-
+        //
         while (running)
         {
             Console.Clear();
